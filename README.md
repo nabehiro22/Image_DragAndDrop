@@ -1,4 +1,4 @@
 # Image_DragAndDrop
 MVVMなWPFアプリでドラッグ＆ドロップ  
 解説は  
-https://nabehirosoft.blogspot.com/2020/01/mvvmwpf.html
+https://www.nabehiro.net/2021/10/wpf-mvvm-drag-drop.html
